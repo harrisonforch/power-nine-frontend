@@ -1,0 +1,23 @@
+@media all and (min-width: 480px) {
+    /* .Login {
+      padding: 200px 0;
+      
+    }
+   */
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .required-star {
+      color: red;
+    }
+
+    .error-user {
+     color: red;
+    }
+
+    .error-pwd {
+      color: red;
+    }   
+  }

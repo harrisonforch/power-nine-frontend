@@ -1,0 +1,25 @@
+.user-div {
+  width: 25%;
+  float: left;
+  vertical-align: ideographic;
+  text-align: center;
+  padding-top: 100px;
+  margin-top: 5%;
+  padding-bottom: 25px;
+}
+
+.decks-div {
+  margin-left: 26%;
+  margin-right: 5%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 25px;
+}
+
+.user-logo {
+  height: 150px;
+}
+
+.deck-card-display {
+  color: #3e3e3e;
+}

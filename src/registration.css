@@ -1,0 +1,19 @@
+@media all and (min-width: 480px) {
+    /* .Registration {
+      
+    } */
+  
+    .Registration form {
+      margin: 0 auto;
+      max-width: 320px;
+    }          
+
+    .error {
+      color: red;
+    }
+
+    .error-star {
+      color: red;
+    }
+   
+  }

@@ -1,0 +1,57 @@
+.individual-card{
+    padding: 20 px;
+    align-items: center;
+}
+
+.all-color{
+    background-color: red;
+}
+
+.all-cards{
+
+    font-size: 12px;
+}
+
+.deckstats{
+    margin-right: 75%;
+}
+
+.center{
+    text-align: center;
+    float: center;
+}
+
+.right-align{
+
+    width: 75%;
+    height: 100vh;
+}
+
+.left-align{
+    width: 25%;
+    height: 100vh;
+
+}
+
+.mana-badge{
+    backgroundColor:aquamarine;
+}
+
+.centering{
+    display: flex;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.spacing{
+    width: 90%;
+}
+
+
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
